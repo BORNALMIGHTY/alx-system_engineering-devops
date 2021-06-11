@@ -1,2 +1,2 @@
 #!/bin/bash
-chown betty:holberton betty
+chown betty:holberton 0x01-shell_permissions
