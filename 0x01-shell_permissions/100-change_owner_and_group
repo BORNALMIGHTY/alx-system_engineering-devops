@@ -1,2 +1,2 @@
 #!/bin/bash
-chown bin.bin 0x01-shell_permissions
+install -m 0777 -o holberton  betty 0x01-shell_permissions
