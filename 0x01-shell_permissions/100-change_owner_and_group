@@ -1,2 +1,2 @@
 #!/bin/bash
-chown root:holberton betty ...
+chown holberton betty
